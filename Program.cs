@@ -1,9 +1,9 @@
-﻿namespace RestaurantProject;
+﻿using System;
 
-class Program
-{
-    static void Main(string[] args)
-    {
-        Console.WriteLine("Hello, World!");
-    }
+namespace RestaurantProject;
+
+class Program {
+  static void Main(string[] args) {
+    Console.WriteLine("Hello, World!");
+  }
 }

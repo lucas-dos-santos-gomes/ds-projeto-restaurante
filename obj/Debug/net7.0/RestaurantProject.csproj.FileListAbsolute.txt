@@ -1,0 +1,15 @@
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\RestaurantProject\bin\Debug\net7.0\RestaurantProject.exe
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\RestaurantProject\bin\Debug\net7.0\RestaurantProject.deps.json
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\RestaurantProject\bin\Debug\net7.0\RestaurantProject.runtimeconfig.json
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\RestaurantProject\bin\Debug\net7.0\RestaurantProject.dll
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\RestaurantProject\bin\Debug\net7.0\RestaurantProject.pdb
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\RestaurantProject\obj\Debug\net7.0\RestaurantProject.csproj.AssemblyReference.cache
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\RestaurantProject\obj\Debug\net7.0\RestaurantProject.GeneratedMSBuildEditorConfig.editorconfig
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\RestaurantProject\obj\Debug\net7.0\RestaurantProject.AssemblyInfoInputs.cache
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\RestaurantProject\obj\Debug\net7.0\RestaurantProject.AssemblyInfo.cs
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\RestaurantProject\obj\Debug\net7.0\RestaurantProject.csproj.CoreCompileInputs.cache
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\RestaurantProject\obj\Debug\net7.0\RestaurantProject.dll
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\RestaurantProject\obj\Debug\net7.0\refint\RestaurantProject.dll
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\RestaurantProject\obj\Debug\net7.0\RestaurantProject.pdb
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\RestaurantProject\obj\Debug\net7.0\RestaurantProject.genruntimeconfig.cache
+H:\VisualStudioCodeProjects\etec\desenvolvimento-de-sistemas\RestaurantProject\obj\Debug\net7.0\ref\RestaurantProject.dll
